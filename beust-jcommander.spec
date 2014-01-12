@@ -1,9 +1,9 @@
-%_javapackages_macros
+%{?_javapackages_macros:%_javapackages_macros}
 %global short_name   jcommander
 
 Name:             beust-%{short_name}
 Version:          1.30
-Release:          4.0%{?dist}
+Release:          4.1%{?dist}
 Summary:          Java framework for parsing command line parameters
 License:          ASL 2.0
 
