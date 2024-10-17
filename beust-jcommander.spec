@@ -7,7 +7,7 @@ Release:          4.1%{?dist}
 Summary:          Java framework for parsing command line parameters
 License:          ASL 2.0
 
-URL:              http://jcommander.org/
+URL:              https://jcommander.org/
 Source0:          https://github.com/cbeust/%{short_name}/archive/%{short_name}-%{version}.tar.gz
 BuildArch:        noarch
 BuildRequires:    maven-local
