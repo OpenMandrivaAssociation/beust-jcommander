@@ -1,2 +1,4 @@
 sources:
+  jcommander-2.0.tar.gz: a8e760eec524363fece47dcd8a6143efbf2042b3
+removed_sources:
   jcommander-1.48.tar.gz: 8343fc029446e87736a9bd0f4a196f6bb6868ebd
